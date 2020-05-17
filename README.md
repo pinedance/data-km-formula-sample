@@ -3,6 +3,7 @@
 ## Disclaimer and Caution !!!
 
 - Redistribution of data is prohibited.
+- It should not be used for purposes other than research.
 - We do not guarantee the reliability of data.
 - We are not responsible for the use of data.
 
